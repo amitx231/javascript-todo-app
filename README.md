@@ -45,10 +45,7 @@ javascript-todo-app/
 │
 ├── index.html
 ├── app.js
-├── README.md
-└── .gitignore
-
-    └── screenshot3.png
+└── README.md
 ```
 
 ---
